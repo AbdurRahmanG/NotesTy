@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616814896698",
+    "project_id": "notes-ty",
+    "storage_bucket": "notes-ty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616814896698:android:8bf17df6042644040df703",
+        "android_client_info": {
+          "package_name": "com.techilyfly.notesty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616814896698-onn775t5d3brq9b6cld4pd7j0nh5eiqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-w7vyelGl-W0taHT683RW1CPjG-JbSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616814896698-onn775t5d3brq9b6cld4pd7j0nh5eiqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
